@@ -5,6 +5,8 @@ function loginMe() {
     
     console.log("successfull login");
 
+    alert("your login is successfull , your data has been captured in firebase database");
+
   }).catch(function(error){
 
     console.log(error);

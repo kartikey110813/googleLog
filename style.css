@@ -1,0 +1,32 @@
+
+.username{
+    width: 40%;
+    height: 5vw;
+    margin-top: 5vw;
+    margin-bottom: 3vw;
+    border: 1px solid red;
+    text-align: center;
+    margin-left: 17vw;
+}
+
+.password{
+    width: 40%;
+    height: 5vw;
+    border: 1px solid greenyellow;
+    text-align: center;
+    margin-left: 17vw;
+    margin-bottom: 5vw;
+}
+.main{
+    margin-left:20vw ;
+    width: 60%;
+    height: 40vw;
+    border: 1px solid black;
+}
+
+.btngoogle{
+    margin-left: 25vw;
+    padding: 1vw;
+    border: none;
+    background: linear-gradient(red,green,blue,yellow);
+}
